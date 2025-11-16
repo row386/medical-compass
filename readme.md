@@ -95,4 +95,4 @@ Access all project files here:
 ---
 
 ## ⚖️ License  
-**All rights reserved © 2025 Mohamed Anwar | SnipeCharts**
+**All rights reserved © 2025 rowan saeed / medical compass**
