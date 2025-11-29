@@ -18,15 +18,15 @@ This project transforms complex financial and analytical concepts into engaging,
 
 ---
 
-## 👥 Team Members (Snipers)
+## 👥 Team Members (medical compass)
 
 ### **Rowan Saeed** – *Team Leader & Founder*  
 **Primary:** Team coordination, marketing strategy, project direction, content planning, github and media buying.  
-**Secondary:** Branding guidance, copywriting, presentation.
+**Secondary:** Branding guidance, copywriting, presentation,website programming, seo plan .
 
 ### **mohamed ahmed attia ** – *Social Media Manager*  
 **Primary:** Campaign management, social media strategy, and scheduling and media buying .  
-**Secondary:** Analytics, content optimization, engagement tracking.
+**Secondary:** Analytics, content optimization, engagement tracking, and seo plan.
 
 ### **Reem Emad** – *content creator*  
 **Primary:** post writing, copywriting , and storytelling.  
@@ -36,13 +36,11 @@ This project transforms complex financial and analytical concepts into engaging,
 **Primary:** Visual design, brand identity, and creative layouts.  
 **Secondary:** UI/UX refinement, social media visuals.
 
-### **Sondos Mahmoud** – *marketing assistent*  
-**Primary:** content creation, marketing assistant, google ads specialist.  
-**Secondary:** Research and blog-style content.
+### **mariam Mohamed** – *marketing assistent*  
+**Primary:** mental health awarness.  
 
-### **Mohamed Farouk** – *Marketing Assistant*  
-**Primary:** Marketing coordination, support in design and content creation.  
-**Secondary:** Campaign performance tracking.
+### **Mohamed magady** – *Marketing Assistant*  
+**Primary:**  content creation.  
 
 ---
 
@@ -73,7 +71,8 @@ This project transforms complex financial and analytical concepts into engaging,
   
 ### 5. Community Building  
 - massanger community.  
-- Discussion topics, mentorship, and feedback sessions.  
+- Discussion topics, mentorship, and feedback sessions.
+- website programming , and seo plan  
 - Real user insights and stories from patients.
 
 ### 6. Review & Finalization  
